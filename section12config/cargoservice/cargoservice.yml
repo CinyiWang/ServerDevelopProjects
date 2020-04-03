@@ -1,4 +1,4 @@
-example.product: "product from default"
+example.product: "product from default(From WYX's github"
 spring.jpa.database: "MYSQL"
 spring.datasource.platform:  "mysql"
 spring.jpa.show-sql: "true"
